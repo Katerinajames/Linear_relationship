@@ -3,7 +3,7 @@ c = 5 / 9 * (f - 32)
 
 
 In this formula  f is the  independent variable and variable c is the  dependent variable because each value of c depends on the value of f .
-.
+
 
 The result of plotting Fahrenheit temperatures and their corresponding Celsius is a straight line. 
 
